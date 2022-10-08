@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura Sequencial/Exercicio01SomaValores/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura Sequencial/Exercicio02AreaCirculo/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura Sequencial/Exercicio03DiferencaABCD/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura Sequencial/Exercicio04Salario/src"/>
+	<classpathentry kind="output" path="Exercicios/Estrutura Sequencial/Exercicio01SomaValores/bin"/>
+</classpath>

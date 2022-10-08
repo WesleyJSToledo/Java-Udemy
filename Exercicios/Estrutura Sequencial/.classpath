@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exercicio01SomaValores/src"/>
+	<classpathentry kind="src" path="Exercicio02AreaCirculo/src"/>
+	<classpathentry kind="src" path="Exercicio03DiferencaABCD/src"/>
+	<classpathentry kind="output" path="Exercicio01SomaValores/bin"/>
+</classpath>
