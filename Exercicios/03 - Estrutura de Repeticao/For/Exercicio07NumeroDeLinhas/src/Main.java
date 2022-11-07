@@ -16,6 +16,8 @@ public class Main {
 			terceiro = (int) Math.pow(i, 3);
 			System.out.println(primeiro+" " +segundo+ " " +terceiro);
 		}
+
+		lerValor.close();
 	}
 
 }

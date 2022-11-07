@@ -15,6 +15,8 @@ public class Main {
 		} else {
 			System.out.println("NÃO NEGATIVO");
 		}
+		
+		lerNumero.close();
 	}
 
 }

@@ -31,5 +31,7 @@ public class Main {
 		}
 		
 		System.out.println(coordenadas);
+
+		lerCoordenadas.close();
 	}
 }

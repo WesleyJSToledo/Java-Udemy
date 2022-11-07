@@ -14,5 +14,7 @@ public class Main {
 		soma = primeiroNumero + segundoNumero;
 		
 		System.out.println("Soma = " +soma);
+
+		lerNumeros.close();
 	}
 }

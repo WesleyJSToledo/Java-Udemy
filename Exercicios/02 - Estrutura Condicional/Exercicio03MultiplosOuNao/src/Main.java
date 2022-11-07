@@ -20,5 +20,7 @@ public class Main {
 		} else {
 			System.out.println("Não São Multiplos");
 		}
+
+		lerNumero.close();
 	}
 }

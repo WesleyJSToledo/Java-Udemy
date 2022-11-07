@@ -24,6 +24,8 @@ public class Main {
 		System.out.println("Valores entre [10, 20]");
 		System.out.println("Dentro: " +in);
 		System.out.println("Fora: " +out);
+
+		lerValor.close();
 	}
 
 }

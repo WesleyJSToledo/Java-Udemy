@@ -24,6 +24,8 @@ public class Main {
 		}
 		
 		System.out.println("Intervalo " +intervalo);
+
+		lerValor.close();
 	}
 
 }

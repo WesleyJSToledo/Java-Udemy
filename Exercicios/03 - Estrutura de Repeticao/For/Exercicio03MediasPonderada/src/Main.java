@@ -28,5 +28,7 @@ public class Main {
 			
 			System.out.println("Media Ponderada: " +media);
 		}
+
+		lerNotas.close();
 	}
 }

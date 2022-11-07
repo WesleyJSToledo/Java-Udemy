@@ -35,5 +35,7 @@ public class Main {
 		}
 		
 		System.out.printf("Valor final: R$%.2f", valorTotal);
+
+		lerPedidos.close();
 	}
 }

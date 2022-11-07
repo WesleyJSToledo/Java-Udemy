@@ -37,7 +37,7 @@ public class Main {
 		
 		System.out.println("Valor total: R$" +valorTotal);
 		
-		
+		lerValores.close();
 	}
 
 }

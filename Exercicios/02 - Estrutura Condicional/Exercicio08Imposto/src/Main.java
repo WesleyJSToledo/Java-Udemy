@@ -30,6 +30,8 @@ public class Main {
 		else {
 			System.out.printf("R$ %.2f%n", imposto);
 		}
+
+		lerSalario.close();
 	}
 
 }

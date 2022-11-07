@@ -24,5 +24,7 @@ public class Main {
 				System.out.println("Divisão é: " +divisao);
 			}
 		}
+
+		lerValores.close();
 	}
 }

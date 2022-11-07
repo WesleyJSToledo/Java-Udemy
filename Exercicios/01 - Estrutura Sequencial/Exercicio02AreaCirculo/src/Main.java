@@ -20,6 +20,8 @@ public class Main {
 		area = Math.PI * Math.pow(raio, 2);
 		
 		System.out.println("Area = " +area);
+		
+		lerValores.close();
 	}
 
 }

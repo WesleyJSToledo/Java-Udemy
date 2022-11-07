@@ -16,5 +16,7 @@ public class Main {
 				System.out.println(i);
 			}
 		}
+
+		lerValor.close();
 	}
 }

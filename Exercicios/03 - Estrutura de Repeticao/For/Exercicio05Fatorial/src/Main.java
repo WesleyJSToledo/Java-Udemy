@@ -17,5 +17,7 @@ public class Main {
 			}
 			System.out.println("Fatorial é: " +fatorial);
 		}
+
+		lerNumero.close();
 	}
 }

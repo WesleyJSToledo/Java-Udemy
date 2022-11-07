@@ -21,5 +21,7 @@ public class Main {
 		}
 		
 		System.out.println("O JOGO DUROU " +tempoTotal+ " HORA(S)");
+
+		lerHora.close();
 	}
 }

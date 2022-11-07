@@ -15,6 +15,8 @@ public class Main {
 		} else {
 			System.out.println("PAR");
 		}
+
+		lerNumero.close();
 	}
 
 }

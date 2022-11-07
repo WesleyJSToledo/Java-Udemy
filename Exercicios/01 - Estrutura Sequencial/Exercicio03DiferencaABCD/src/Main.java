@@ -28,6 +28,8 @@ public class Main {
 		diferenca = (a * b - c * d);
 		
 		System.out.println("Difereça= " +diferenca);
+
+		lerValores.close();
 	}
 
 }

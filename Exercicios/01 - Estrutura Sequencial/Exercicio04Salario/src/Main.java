@@ -20,5 +20,7 @@ public class Main {
 		
 		System.out.println("Numero: " +numeroFuncionario);
 		System.out.println("Salario: R$" +salario);
+
+		lerNumero.close();
 	}
 }

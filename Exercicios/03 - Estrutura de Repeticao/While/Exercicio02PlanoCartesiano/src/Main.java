@@ -29,5 +29,7 @@ public class Main {
 				System.out.println("Fim do Programa");
 			}
 		}
+
+		lerCoordenadas.close();
 	}
 }
