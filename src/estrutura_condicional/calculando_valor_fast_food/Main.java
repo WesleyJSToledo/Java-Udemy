@@ -1,6 +1,7 @@
 package estrutura_condicional.calculando_valor_fast_food;
 import java.util.Scanner;
 
+
 public class Main {
 	public static void main(String[] args) {
 		Scanner lerPedidos = new Scanner(System.in);

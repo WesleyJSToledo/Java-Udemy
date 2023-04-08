@@ -21,6 +21,8 @@ public class Alunos {
 		this.notas[1] = sc.nextDouble();
 		
 		System.out.println();
+		
+		sc.close();
 	}
 
 	public double media() {
