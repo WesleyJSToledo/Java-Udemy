@@ -16,6 +16,8 @@ public class Main {
 		final String READER_PATH = "res\\itens\\in.csv";
 		final String WRITER_PATH = "res\\itens\\out.csv";
 		
+		
+
 		try (BufferedReader br = new BufferedReader(new FileReader(READER_PATH)); 
 			BufferedWriter bw = new BufferedWriter(new FileWriter(WRITER_PATH))){
 			
