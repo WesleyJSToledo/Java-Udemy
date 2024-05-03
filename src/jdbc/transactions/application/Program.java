@@ -4,8 +4,6 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping;
-
 import jdbc.db.DB;
 import jdbc.db.DBException;
 

@@ -36,6 +36,7 @@ public class Main {
 		
 		amount += quantityProduct * valueProduct;
 		
+		System.out.println("Cod Product: " + codProduct);
 		System.out.println("Amount: R$" +amount);
 		
 		sc.close();
